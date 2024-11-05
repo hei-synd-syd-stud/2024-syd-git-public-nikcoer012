@@ -33,3 +33,23 @@ Checkout le main va nous mettre le dernier commit réalisé dans le Staging area
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1 - name of branch
+
+2 - short hash
+
+3 - commit comment 
+
+4 - user who comitted
+
+5 - version hisotry of main
+
+6 - last commit of seocndary branch 
+
+7 - tertiary branch
+
+8 - last commit of main branch
+
+9 - secondary branch
+
+10 - main branch
