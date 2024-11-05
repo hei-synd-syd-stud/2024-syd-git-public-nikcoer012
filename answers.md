@@ -20,9 +20,13 @@ Nous modifions le fichier README.md. Quand on demande git status one retrouve to
 
 ### Task 5
 
-La chaîne de caractères au début signifie une clé unique à chaque commit pour qu'il n'y aie aucune confusion lorsqu'on doit rechercher des anciens commits. HEAD consitue tout ce qu'on a/avait dans le Staging area est sont les éléments prêts à commit. Et le main est dans le local git repository et est notre master branche. Après les paramthèses se trouve le commentaire défini avec le commit spécifique.
+La chaîne de caractères (short hash) au début signifie une clé unique à chaque commit pour qu'il n'y aie aucune confusion lorsqu'on doit rechercher des anciens commits. HEAD consitue tout ce qu'on a/avait dans le Staging area est sont les éléments prêts à commit. Et le main est dans le local git repository et est notre master branche. Après les paramthèses se trouve le commentaire défini avec le commit spécifique.
 
 ### Task 6
+
+Les réponses étaient disparuent... Lorsqu'on checkout un commit ce sera celui là qui va être pris du Local repository sur le Staging area et en conséquence que les versions de fichier et fichers vont être disponibles lorsque nous étions au premier commit.
+
+Checkout le main va nous mettre le dernier commit réalisé dans le Staging area. Nous allons retrouver toutes nos modifications et nouveaux fichiers.
 
 ## Gitgraph
 
